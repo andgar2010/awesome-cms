@@ -1169,7 +1169,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               <img alt="Last commit for Directus" src="https://flat.badgen.net/github/last-commit/directus/directus?color=black" />
           </div>
         </td>
-        <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
+        <td>Directus is an open-source suite of software that wraps custom SQL databases with a dynamic API and intuitive Admin App. It allows both administrators and non-technical users to view and manage the content/data stored in pure SQL databases. It can be used as a headless CMS for managing project content, a database client for modeling and viewing raw data REST API or GraphQL, or as customizable WebApp.</td>
       </tr>
       <tr>
         <td width="240">
